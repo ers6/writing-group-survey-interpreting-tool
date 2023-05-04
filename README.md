@@ -1,7 +1,7 @@
 # Writing Group Survey Interpreting Tool Documentation
 
 ## Why did we create this? 
-Elizabeth Schwartz created this python program to automatically interpret results of a survey intended to match respondents into sustained writing groups based on their preferences of modality, sessions per week, and length of sessions. The ultimate goal of the program is to create more options for sustained writing groups of graduate students without further burdening the WW administrative team.
+Elizabeth Schwartz created this python program to automatically interpret results of a survey intended to match respondents into sustained writing groups based on their preferences of modality, sessions per week, and length of sessions. The ultimate goal of the program is to create more options for sustained writing groups of graduate students without further burdening the WW administrative team. While this program is intended for use by the University of Illinois's Writers Workshop team, I am publishing it on GitHub for other writing center administrators to adapt for their own use cases. The directions that follow are intended to assist someone with no programming knowledge with using the program to interpret survey results.
 
 ## How to use it? 
 
@@ -36,7 +36,7 @@ Right now the program has a number of limitations. We are only able to match peo
 
 The largest limitation right now is that we cannot change the survey design without needing to completely revise the survey interpreting tool. This means that if we realize the survey question text is confusing, want to expand options to it, etc., we would need someone with programming knowledge to revise the tool to match the updated survey.
 
-To truly make this technical solution sustainable, the Writers Workshop should actively recruit students with programming interests to take on the project. We could, for example, consider inviting consultants with programming experience to join the WWCC to expand this project. Or, perhaps an undergraduate student in an incoming consultant cohort could pick up this project as part of their WRIT 300 research! Finally, through making the programming publicly available on a Writers Workshop owned GitHub repository, we could distribute it and encourage people at other writing centers to adopt similar approaches for creating sustained writing groups at their institutions. 
+To truly make this technical solution sustainable, the Writers Workshop should actively recruit students with programming interests to take on the project. We could, for example, consider inviting consultants with programming experience to join the WWCC to expand this project. Or, perhaps an undergraduate student in an incoming consultant cohort could pick up this project as part of their WRIT 300 research! Finally, through making the programming publicly available on a Writers Workshop owned GitHub repository, we could distribute it and encourage people at other writing centers to adopt similar approaches for creating sustained writing groups at their institutions. For now, it is hosted here on my personal github account :) 
 
 
 
