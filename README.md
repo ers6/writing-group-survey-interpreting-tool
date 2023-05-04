@@ -25,9 +25,10 @@ The next cell you will run will cause a “Choose file” button to appear under
 
 In the next two cells, you will repeat this process exactly with the empty csv file you created. 
 
-Locate the file in the left hand tab by clicking on the file icon (hint-if you can't find it, it's probably in the content folder).
-Right click the file you uploaded. Select "copy path"
-when prompted to input the results file path, paste the file path from your clipboard.
+- Locate the file in the left hand tab by clicking on the file icon (hint-if you can't find it, it's probably in the content folder).
+- Right click the file you uploaded. Select "copy path"
+- When prompted to input the results file path, paste the file path from your clipboard.
+
 You will not need to do anything manually for the rest of the notebook. Just make sure to run all the remaining cells. By the last cell, you will have populated the empty csv file with writing groups and introductory emails to send them. Before you send those emails, make sure to manually review the text the last cell creates. This text contains the email address of anyone who reported a safety concern and the text they entered when asked about their safety concern. Note that often times people will enter words like “None”, “nope”, “NA”, etc. in this field. The program does not robustly weed these answers out in order to prevent accidentally discarding real safety concerns. Therefore, you will need to manually review each concern reported. 
 
 ## Limitations 
